@@ -1,7 +1,12 @@
 p {
-    font-family: Calibri;}
+    font-family: 'Calibri';}
 h1, h2, h3 {
-    font-family: 'Times New Roman';
+    font-family: 'Courier New';
     color: rgb(31, 119, 146);}
 body {
-    font-family: 'Courier New';}
+    font-family: 'Courier New';
+    color:rgb(77, 176, 206);}
+a:visited {color: rgb(126, 71, 19);}
+a:link {color: rgb(1, 82, 107);}
+a:hover {color: rgb(125, 153, 79);}
+a:active {color: rgb(179, 192, 0);}
