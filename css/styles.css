@@ -2,11 +2,11 @@ p {
     font-family: 'Calibri';}
 h1, h2, h3 {
     font-family: 'Courier New';
-    color: rgb(31, 119, 146);}
+    color: rgb(28, 104, 128);}
 body {
     font-family: 'Courier New';
-    color:rgb(77, 176, 206);}
-a:visited {color: rgb(126, 71, 19);}
-a:link {color: rgb(1, 82, 107);}
+    color:rgb(70, 158, 185);}
+a:visited {color: rgb(187, 179, 105);}
+a:link {color: rgb(43, 182, 163);}
 a:hover {color: rgb(125, 153, 79);}
 a:active {color: rgb(179, 192, 0);}
