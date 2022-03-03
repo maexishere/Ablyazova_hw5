@@ -33,16 +33,6 @@ const studentList = [
 ];
 // TO DO - Write higher order functions / There are many solutions
 
-
-//show the list
-console.log(studentList);
-
-const filter = (array, func) => array.filter(func);
-bylName = (array) => array.lastName.startsWith("C");
-//show the modified list again
-console.log("Testing: ", filter(studentList, bylName))
-
-
 //Declare cLastNameResults.  Use functions and map a new array of objects
 
 const cLastNameResults = studentList.filter(student => student.lastName.startsWith("C")).map(student => {
